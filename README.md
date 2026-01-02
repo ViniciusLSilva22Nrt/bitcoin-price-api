@@ -16,7 +16,7 @@ Manipulação de dados
 
 Automação de coleta
 
-Integração com banco de dados (opcional)
+Integração com banco de dados 
 
 🛠️ Tecnologias Utilizadas
 
@@ -26,8 +26,8 @@ Requests – consumo da API
 
 Pandas – tratamento e organização dos dados
 
-PostgreSQL (opcional) – persistência dos dados
+PostgreSQL – persistência dos dados
 
-SQLAlchemy (opcional)
+SQLAlchemy 
 
 dotenv – gerenciamento de variáveis de ambiente
